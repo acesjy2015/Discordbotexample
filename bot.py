@@ -20,4 +20,4 @@ async def on_message(message):
 	channel = message.channel
 if content.startwith("!케를"):
 	await message.channel.send("음머어ㅓ어어ㅓ어어ㅓ")
-client.run('ODU4NzQxMTU3OTE0NjA3NjE2.YNijBg.e50UsMEe-N11oUkGzFHB01z3Em0')
+client.run('')
